@@ -1,0 +1,311 @@
+[
+  {
+    "_id": "67aced5b61e6e53a9ecd5023",
+    "movieId": 2275,
+    "fgId": 6032,
+    "title": "1978",
+    "titleOriginal": "1978",
+    "poster": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/mediaserver/movies/1978-6032/poster/1739361431425",
+    "backdrop": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/mediaserver/movies/1978-6032/backdrop/1739361432512",
+    "trailer": "",
+    "storyVideo": "",
+    "motionPoster": "",
+    "motionBackdrop": "",
+    "oneliner": null,
+    "ingresses": {
+      "default": "Filmen er tekstet på engelsk. \n\nEn intens og velspilt skrekkfilm satt til en av de mørkeste periodene i Argentinas historie, med en uventet, overnaturlig tvist."
+    },
+    "overview": "For å dempe sine kritikere og forhindre opptøyer under verdensmesterskapet i fotball i 1978, brukte militærjuntaen i Argentina makt.\n\nHandlingen i 1978 finner sted under verdensmesterskapsfinalen mellom Argentina og Nederland. Torturister fra det hemmelige argentinske politiet bryter seg inn i et hus og kidnapper en gruppe unge mennesker for å ta dem med til et hemmelig interneringssenter. Det som starter som inhuman tortur, blir til en enda mer makaber seanse når det viser seg at feil folk har blitt kidnappet.\n\nFilmen hadde premiere på sjangerfilmfestivalen Sitges Film Festival i oktober, hvor den ble nominert i “Best Midnight X-Treme Movie”-kategorien.  \n\nLuciano og Nicolás Onetti er en argentinsk filmskaperduo som blant annet lager filmer inspirert av den italienske giallosjangeren. Sammen har de regissert filmer som Los olvidados (2017), Abrakadabra (2018) og 1978 (2024).",
+    "runtime": 80,
+    "ageRating": 15,
+    "reasonForAgeRestriction": "Filmen inneholder voldelige torturscener og skremmende sekvenser som ikke egner seg for barn under 15 år.",
+    "language": "Spansk",
+    "country": "Argentina",
+    "director": "Nicolás Onetti, Luciano Onetti",
+    "producer": "Sayf Aram, Carlos Goitia, Michael Kraetzer, Nicolás Onetti",
+    "screenWriter": "Luciano Onetti, Nicolás Onetti, Camilo Zaffora",
+    "cinematographer": "Kasty Castillo, Luciano Montes de Oca",
+    "composer": "",
+    "cast": [
+      {
+        "name": "Agustín Pardella"
+      },
+      {
+        "name": "Carlos Portaluppi"
+      },
+      {
+        "name": "Mario Alarcón"
+      }
+    ],
+    "genres": ["thriller", "skrekkfilm"],
+    "releaseDate": "2024-10-17T00:00:00.000Z",
+    "releaseYear": 2024,
+    "releaseDateFormat": "",
+    "mediaFilmId": 100000193,
+    "ediIds": ["EDI20240265"],
+    "ediNotes": {
+      "EDI20240265": ["2D", "Original tale", "Engelsk tekst"]
+    },
+    "externalUpdatedAt": "2024-11-05T12:14:29.022Z",
+    "createdAt": "2025-02-12T18:50:03.451Z",
+    "updatedAt": "2025-02-26T10:58:06.716Z",
+    "nowPlaying": {
+      "locations": ["1"],
+      "popularity": {
+        "1": 3
+      }
+    },
+    "nowPlayingToday": {
+      "locations": []
+    },
+    "popularity": {
+      "1": {
+        "08-03-2025": 1,
+        "09-03-2025": 1,
+        "07-03-2025": 1
+      }
+    },
+    "preShow": {
+      "1": false
+    },
+    "savedCount": 4,
+    "notifiedAboutShowtimes": {
+      "1": true
+    }
+  },
+  {
+    "_id": "67aced5c61e6e53a9ecd5024",
+    "movieId": 2276,
+    "fgId": 6833,
+    "title": "Aire, Just Breathe",
+    "titleOriginal": "Aire, Just Breathe",
+    "poster": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/mediaserver/movies/aire-just-breathe-6833/poster/1739361972889",
+    "backdrop": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/mediaserver/movies/aire-just-breathe-6833/backdrop/1739361974202",
+    "trailer": "",
+    "storyVideo": "",
+    "motionPoster": "",
+    "motionBackdrop": "",
+    "oneliner": null,
+    "ingresses": {
+      "default": "En stilig, dominikansk dystopisk science fiction."
+    },
+    "overview": "Krig og forurensning har lagt verden øde. Biologen Tania og hennes kunstige intelligens-maskin Vida prøver å skape nytt liv på en rasert planet. Dagene svinger mellom frustrasjon og inspirasjon, til de en dag får nyss i en annen overlevende i nærheten. Kan det være håp? \n\nAIRE – JUST BREATHE er en stilfull og spennende postapokalyptisk science fiction-film, noe som er svært uvanlig i karibisk filmhistorie. Med stram historiefortelling, solid skuespill og vakker produksjonsdesign utforsker regissør Leticia Tonos ensomheten til en som har overlevd apokalypsen.",
+    "runtime": 90,
+    "ageRating": -1,
+    "reasonForAgeRestriction": "",
+    "language": "Spansk",
+    "country": "Den dominikanske republikk",
+    "director": "Leticia Tonos",
+    "producer": "",
+    "screenWriter": "",
+    "cinematographer": "",
+    "composer": "",
+    "cast": [
+      {
+        "name": "Sophie GÓMEZ"
+      },
+      {
+        "name": "Paz VEGA"
+      },
+      {
+        "name": "Jalsen SANTANA"
+      }
+    ],
+    "genres": ["sci-fi"],
+    "releaseDate": "2025-03-31T00:00:00.000Z",
+    "releaseYear": 2024,
+    "releaseDateFormat": "MMM YYYY",
+    "mediaFilmId": 100000915,
+    "ediIds": ["EDI20250210"],
+    "ediNotes": {
+      "EDI20250210": ["2D", "Original tale", "Engelsk tekst"]
+    },
+    "externalUpdatedAt": "2025-02-12T11:57:00.439Z",
+    "createdAt": "2025-02-12T18:50:04.627Z",
+    "updatedAt": "2025-02-26T10:58:06.716Z",
+    "nowPlaying": {
+      "locations": ["1"],
+      "popularity": {
+        "1": 3
+      }
+    },
+    "nowPlayingToday": {
+      "locations": []
+    },
+    "popularity": {
+      "1": {
+        "08-03-2025": 1,
+        "09-03-2025": 1
+      }
+    },
+    "preShow": {
+      "1": true
+    },
+    "savedCount": 6,
+    "notifiedAboutShowtimes": {
+      "1": true
+    }
+  },
+  {
+    "_id": "67aced5d61e6e53a9ecd5025",
+    "movieId": 2277,
+    "fgId": 6832,
+    "title": "Alma del desierto",
+    "titleOriginal": "Alma del desierto",
+    "poster": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/mediaserver/movies/alma-del-desierto-6832/poster/1739363235022",
+    "backdrop": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/mediaserver/movies/alma-del-desierto-6832/backdrop/1739363236172",
+    "trailer": "",
+    "storyVideo": "",
+    "motionPoster": "",
+    "motionBackdrop": "",
+    "oneliner": null,
+    "ingresses": {
+      "default": "En visuelt slående dokumentar om identitet, papirer og familiebånd i Colombia."
+    },
+    "overview": "Georgina er en transkvinne i syttiårene som bor på den vakre, karrige Guajira-halvøyen i Colombia. Her bor hennes folk, wayuuene, men hun har selv måttet flykte fra sine brødre. Georgina har to mål: Å forsone seg med sin familie, og å få rett navn og kjønn på identitetskortet hun trenger for å kunne stemme ved valg. Begge deler er lettere sagt enn gjort, men Georgina har allerede møtt motstand i mange tiår, og hun gir seg ikke så lett. \n\nLandskapet kjent fra BIRDS OF PASSAGE (2018) får skinne i en flott fotografert dokumentar med sans for detaljer i flora og fauna. Like fullt er det Georgina som bærer denne sterke og håpefulle historien om å være marginalisert på flere måter. Regissør Mónica Taboada-Tapia vant Queer Lion-prisen på filmfestivalen i Venezia for denne nydelige filmen som på respektfullt vis følger Georginas fredfulle kamp.",
+    "runtime": 87,
+    "ageRating": -1,
+    "reasonForAgeRestriction": "",
+    "language": "Spansk",
+    "country": "Colombia",
+    "director": "Mónica Taboada Tapia",
+    "producer": "Beto Rosero",
+    "screenWriter": "",
+    "cinematographer": "",
+    "composer": "",
+    "cast": [],
+    "genres": ["dokumentar"],
+    "releaseDate": "2025-03-31T00:00:00.000Z",
+    "releaseYear": 2024,
+    "releaseDateFormat": "MMM YYYY",
+    "mediaFilmId": 100000916,
+    "ediIds": ["EDI20250211"],
+    "ediNotes": {
+      "EDI20250211": ["2D", "Original tale", "Engelsk tekst"]
+    },
+    "externalUpdatedAt": "2025-02-12T12:00:22.597Z",
+    "createdAt": "2025-02-12T18:50:05.654Z",
+    "updatedAt": "2025-02-26T10:58:06.716Z",
+    "nowPlaying": {
+      "locations": ["1"],
+      "popularity": {
+        "1": 3
+      }
+    },
+    "nowPlayingToday": {
+      "locations": []
+    },
+    "popularity": {
+      "1": {
+        "08-03-2025": 0,
+        "09-03-2025": 1,
+        "07-03-2025": 1
+      }
+    },
+    "preShow": {
+      "1": true
+    },
+    "savedCount": 3,
+    "notifiedAboutShowtimes": {
+      "1": true
+    }
+  },
+  {
+    "_id": "67aced5e61e6e53a9ecd5026",
+    "movieId": 2278,
+    "fgId": 6831,
+    "title": "Bad Actor",
+    "titleOriginal": "Un Actor Malo",
+    "poster": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/mediaserver/movies/bad-actor-6831/poster/1739362122887",
+    "backdrop": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/mediaserver/movies/bad-actor-6831/backdrop/1739362124540",
+    "trailer": "",
+    "storyVideo": "",
+    "motionPoster": "",
+    "motionBackdrop": "",
+    "oneliner": null,
+    "ingresses": {
+      "default": "Et intenst spennende drama om #metoo på et meksikansk filmsett."
+    },
+    "overview": "To unge, lovende skuespillere spiller hovedrollene i filmen til en kjent regissør. De har god kjemi, men etter en sexscene bryter den ene skuespilleren sammen. Den andre skuespilleren har tråkket over en grense. Konflikten eskalerer fort til et sitrende drama hvor kollegaer og advokater prøver å manøvrere i sannheten. \n\nBAD ACTOR er en smart og heseblesende film som bæres av imponerende skuespillerprestasjoner. Fiona Palmo briljerer i rollen som Sandra. Filmskaper Jorge Cuchí behandler temaet med all respekten det fortjener, uten å la publikum slippe unna vanskelige spørsmål.",
+    "runtime": 129,
+    "ageRating": -1,
+    "reasonForAgeRestriction": "",
+    "language": "Spansk",
+    "country": "Mexico",
+    "director": "Jorge Cuchi",
+    "producer": "Verónica Valadez, Yair Ponce, Hari Sama",
+    "screenWriter": "Jorge Cuchi",
+    "cinematographer": "Jose Casillas",
+    "composer": "",
+    "cast": [
+      {
+        "name": "Alfonso Dosal"
+      },
+      {
+        "name": "Fiona Palomo"
+      },
+      {
+        "name": "Gerardo Trejoluna"
+      },
+      {
+        "name": "Juan Pablo De Santiago"
+      },
+      {
+        "name": "Karla Coronado"
+      },
+      {
+        "name": "Ana Karina Guevara"
+      },
+      {
+        "name": "Patricia Soto"
+      },
+      {
+        "name": "Monica Jimenez"
+      },
+      {
+        "name": "Luis Jose Sevilla"
+      },
+      {
+        "name": "Erick Israel Consuelo"
+      },
+      {
+        "name": "Solana Azulay"
+      }
+    ],
+    "genres": ["drama"],
+    "releaseDate": "2025-03-31T00:00:00.000Z",
+    "releaseYear": 2024,
+    "releaseDateFormat": "MMM YYYY",
+    "mediaFilmId": 100000917,
+    "ediIds": ["EDI20250212"],
+    "ediNotes": {
+      "EDI20250212": ["2D", "Original tale", "Engelsk tekst"]
+    },
+    "externalUpdatedAt": "2025-02-12T12:04:48.627Z",
+    "createdAt": "2025-02-12T18:50:06.616Z",
+    "updatedAt": "2025-02-26T10:58:06.716Z",
+    "nowPlaying": {
+      "locations": ["1"],
+      "popularity": {
+        "1": 3
+      }
+    },
+    "nowPlayingToday": {
+      "locations": []
+    },
+    "popularity": {
+      "1": {
+        "08-03-2025": 1,
+        "09-03-2025": 1,
+        "07-03-2025": 1
+      }
+    },
+    "preShow": {
+      "1": true
+    },
+    "savedCount": 2,
+    "notifiedAboutShowtimes": {
+      "1": true
+    }
+  }
+]
